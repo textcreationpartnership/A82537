@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver of both Houses of Parliament to His Majesties last message. Agreed on Munday the 30 of Octo. 1648 to be sent by Sir Peter Killeygrew. With further instructions to the commissioners. And the copies of severall votes of the House of Commons. And instructions concerning the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82537</idno>
+            <idno type="STC">Wing E1220</idno>
+            <idno type="STC">Thomason E469_13</idno>
+            <idno type="STC">ESTC R205462</idno>
+            <idno type="EEBO-CITATION">99864835</idno>
+            <idno type="PROQUEST">99864835</idno>
+            <idno type="VID">162368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162368)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E469[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver of both Houses of Parliament to His Majesties last message. Agreed on Munday the 30 of Octo. 1648 to be sent by Sir Peter Killeygrew. With further instructions to the commissioners. And the copies of severall votes of the House of Commons. And instructions concerning the army.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Not a parliamentary publication -- cf. Lambert, Sheila, Printing for Parliament, 1641-1700, p. 249.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162368:1" rendition="simple:additions"/>
+            <p>AN ANSVVER of Both Houſes of Parliament TO His <hi>Majeſties</hi> LAST <hi>Meſſage.</hi>
+            </p>
+            <p>Agreed on <hi>Munday</hi> the 30 <hi>of Octo.</hi> 1648 to be ſent by Sir <hi>Peter Killeygrew.</hi>
+            </p>
+            <p>WITH Further Inſtructions to the Commiſsioners.</p>
+            <p>AND The Copies of ſeverall Votes of the <hi>Houſe</hi> of <hi>COMMONS.</hi>
+            </p>
+            <p>And Inſtructions concerning the Army.</p>
+            <p>LONDON, Printed for <hi>H. Becke,</hi> and are to be ſold in the <hi>Old Bayley.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162368:2"/>
+            <pb n="1" facs="tcp:162368:2"/>
+            <div type="part">
+               <head>AN Anſwer of both Houſes of Parliament, <hi>to His Majeſties laſt Meſſage.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>Die Lunae <hi>Octob.</hi> 30. 1648.</date>
+                  </dateline>
+               </opener>
+               <div n="1" type="section">
+                  <head>FIRST. REſolved by the Lords and Commons in Parliament aſ<g ref="char:EOLhyphen"/>ſembled, that His Majeſties Paper concerning <hi>Epiſ<g ref="char:EOLhyphen"/>copacy,</hi> of <hi>Newport</hi> 31 <hi>Octob.</hi> 1648. by which it is ſaid, that</head>
+                  <p>HIs Majeſty conceives that his former Anſwers to your Propoſitions concer<g ref="char:EOLhyphen"/>ning the Church, would have given more ſati faction to his two Houſes then is expreſſed in your papers of the 16 and 17. of this Inſtant, as containing in them (if conſidered in their ſull extent) Conceſſions of the moſt material things deſired, and therefore for a Declaration of his intentions by theſe former An<g ref="char:EOLhyphen"/>ſwers, as for a further and finall Anſwer to the ſaid Propoſitions and Paper of the 19th, His Majeſty ſaith as followeth:</p>
+                  <p>That albeit for the reaſons expreſſed in his former Paper, he cannot conſent to a Bill, and the Ordinance for aboliſhing of Biſhops, yet for the ſatisfaction of his two Houſes, and ſetling the publique peace he will conſent to a Bill for the taking away of al Archbiſhops, Chancellors, Commiſſioners, Deans and Sub-Deans, Deans and Chapters, Arch-Deacons Canons, and Prebendaties, all Chan<g ref="char:EOLhyphen"/>ters, Chancellors, Treaſurers, Sub-Treaſurers, Subcenters, and Sacriſts, and all Choral, and Choriſters, old Vicars, and new Vicars of any Cathedral or Collegiat Church, and all other their under Officers, but of the Church of England, and Do<g ref="char:EOLhyphen"/>minion of Wales, and out of the Church of Ireland, and further, his Mieſty will conſent to ſuſpend the exerciſe of all Epiſcopal Government for the ſpace of three years, and hath conſented &amp; will conſent to confirm the form of Church Govern<g ref="char:EOLhyphen"/>ment now preſented unto him, for the ſpace of 3 years, and that no other ſhall be uſed during the ſaid time; In which time his Majeſty continues his deſire that a conſultation with the Aſſembly of Divines at Weſtmin. 20 of his own nomination
+<pb n="2" facs="tcp:162368:3"/>being added, to his end his Majeſty and his two Houſes may within theſe 3 years informs <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the practiſe of the Primitive Church in <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Epiſ<gap reason="illegible" resp="#MURP" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>cy and may accordingly agree in limiting the Biſhops to the <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iſt<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ce of Pre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bitery, and in the exerciſe of their juriſdiction, and <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ing their <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er, if it be thought fit. And his Majeſty will conſent, that in calen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſhall be agreed on within the ſaid 3 years then after the ſaid time, the powr of or<g ref="char:EOLhyphen"/>dination ſhall not be exerciſed by Biſhops, without the counccil and aſſiſtance of Prosbyters, and that no other Epiſcopall Juriſdiction ſhall be exerciſed by Biſhops without the councell and aſſiſtance of Presbyters, and that no other Jurisdiction ſhall be exerciſed by Biſhops, but ſuch, and in ſuch manner as ſhall be agreed on by his Majeſty and his we Houſes of Parliament. And his Majeſty doth proſeſſe, that if in that time he be convinced that the function of Biſhops is not agreable to the Word of God, or that Chriſt commanded any other Government, he will chearfully imbrace that, and take away Epiſcopacy, but untill hee bee convinced, he beleeves himſelfe bound in conſcience to uphold that function, as is above expreſſed,</p>
+                  <p>
+                     <hi>That this Anſwer <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>from His Majeſty is not ſatisfactory.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>2 Reſolved upon the Queſtion, that His Majeſties, Paper of <hi>Octob.</hi> 21. Concerning</head>
+                  <p>The Ordinances for the ſettling the Biſhops Lards upon Truſtees, and ſo the ſale of thoſe Lands, though his Majeſty upon conſciencious ſcruples (wherein h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath the concurrent opinion of the Divines, as well of the Reformed, as other Churches) hath not conſented thereunto, yet he hath offered ſatisfaction to all ſuch as purchaſed any of thoſe Lands, or disburſed mony upon that ſecurity by legall eſtates for lives or yeares (not exceeding 99 yeares) reſerving onely the propriety and Inheritance of thoſe Lands to the Church and Churchmen, and the old rent, or other moderate rents for their maintenance; and that if thoſe Leaſes ſhall not ſuffice, his Majeſty would propound and conſent to ſome other way for their further ſatisfaction, and therefore other ſatisfaction, for thoſe debts and engagements (which were the motives for the ſale of thoſe Lands) being propoſed, and his Majeſty having herein condeſcended as fit as poſſibly he can, he deſires his two Houſes would comply with his Majeſty in this particular.</p>
+                  <p>His Majeſty hath offered by Act of Parliament to confirme the calling and fit<g ref="char:EOLhyphen"/>ting the Aſſembly of Divines, as largely in the matter deſired as the Ordinance it ſelfe propoſed for that purpoſe. He hath likewiſe offered to continue the pub ique uſe of the Directory in all Churches and Chappels, as is deſired in your Propoſi<g ref="char:EOLhyphen"/>tion: And to conſent to the repeale of ſo much of all Statutes as concerne the Books of Common-prayer, and to take the ſame away out of all Churches and Chappels, except his Majeſties Chappell, where hee intends the uſe thereof may be continued for himſelfe and his houſhold, untill another publique Forme of Prayer ſhould be agreed on by his Majeſty and his two Houſes. His Majeſty hath
+<pb n="3" facs="tcp:162368:3"/>likewiſe conſented to the Bill for ſuppreſſing Innovations, wherein they <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> proviſion for the due obſervation of the Lords day; and offered (if that was not ſufficient) to conſent to the matter of the Ordinance for obſervation hereof, as fully as is deſired: But for the Ordinances preſented to his Majeſty which con<g ref="char:EOLhyphen"/>cerne the Aſſembly of Divines, the Directory, the taking away the Bookes of Common prayer, and the obſervation of the Lords day, many expreſſions therein require nebeſſary alterations, in reſpect of ſome things happening ſince their firſt framing, others reflect on former eſtabliſhed Laws, and other matters not ne<g ref="char:EOLhyphen"/>ceſſary; and therefore though he conſented to the matter therein deſired, yet hee could not confirme thoſe Judiciall Ordinances <hi>in ter<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ini<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> as they are penned, Whereas you conceive his Majeſty did not give his Aſſent to the Bill for the better advancement of the Preaching of Gods Holy Word in all parts of this Kingdome his Majeſty by his former Anſwer did ſufficiently expreſſe his conſent thereunto by conſenting to the Bill for ſuppreſſing of Innovations (in which that for the ad<g ref="char:EOLhyphen"/>vancement of Preaching is included.) And his Majeſty doth againe give conſent thereunto; as alſo to the Bill againſt enjoying Pluralities of Benefices by Spirituall perſens and non Reſidency, formerly delivered to his Majeſty, as is deſired in the Propoſitions.</p>
+                  <p>
+                     <hi>This Anſwer from his Majeſty is not ſatisfactory.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>3 Reſolved by the Lords and Commons that His Majeſties Paper of <hi>Octob.</hi> 21.</head>
+                  <p>Touching Reformation of Religion; Whereas you ſay his Majeſties Anſwer comes far ſhort of the Propoſition which deſires that his Majeſty ſhould conſent; that Reformation of Religion according to the Covenant bee ſettled, in ſuch manner as both Houſes have agreed, or ſhall agree upon after Conſultation had with the Aſſembly of Divines, his Majeſty ſaith, That he hath anſwered all the particulars which are ſet dow<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e as branches of that generall Propoſition, and can<g ref="char:EOLhyphen"/>not thin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e that it will bee expected that he ſhould oblige himſelfe gene rally to what his two Houſes ſhall hereafter agree touching matters of Religion' before he be ſatisfied of the nature thereof.</p>
+                  <p>His Majeſty conceives that he had given a full anſwer to your Propoſition for an Act or Acts to be paſſed for a ſtricter courſe to be taken to prevent the ſaying or hearing of Maſſe in the Court, or any other part of this Kingdome, or the King<g ref="char:EOLhyphen"/>dome of Ireland, he having conſented thereunto, with exemption onely of the Queen and her Family (few whereof are of her Profeſſion) according to the Ar<g ref="char:EOLhyphen"/>ticles of Marriage agreed on betwixt the two Crownes, which his Majeſty con<g ref="char:EOLhyphen"/>ceives his two Houſes will not adviſe him to breake. And as for reſtraining the acceſſe of all others but her Family, and in all things elſe his Majeſty conſents to that Propoſition as is deſired.</p>
+                  <p>
+                     <hi>This Anſwer from His Majeſty is not ſatisfactory.</hi>
+                  </p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. <hi>Reſolved, &amp;c.</hi>
+                  </head>
+                  <p>Touching the Covenant, his Majeſty anſwers as formerly, that he remains yet
+<pb n="4" facs="tcp:162368:4"/>unſatisfactory to take it, or impoſe it upon others, and conceives it not proper to be inſiſted on at this time, and that the end thereof (without taking it) will bee obtained by this agreement, if happily concluded. For the Articles of Religion preſented to his Majeſty, which are deſired to be confirmed by Act of Parliament, his Majeſty hath already anſwered, that he had not yet time to peruſe them with that deliberation as is requiſite, before hee birde up himſelfe and his ſubjects in mtters of Faith and Doctrine; and conceives his Houſes will thinke it not im<g ref="char:EOLhyphen"/>proper to reſpite the confideration of them to a further tune, conſidering how peri<g ref="char:EOLhyphen"/>lous, definitions are in matters of Religion, how long time he Articles have been in framing, and that ſince the beginning of this Treaty, and not before, they came int<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ely to his Majeſties view.</p>
+                  <p>His Majeſty having ſo far conſented to the ſeverall particulars of this Propo<g ref="char:EOLhyphen"/>ſition, that the remaining differences are very few, doth therefore earneſtly de<g ref="char:EOLhyphen"/>ſire his two Houſes that they may be no obſtacle to the ſettlement of the bleſ<g ref="char:EOLhyphen"/>ſed Peace now in hand.</p>
+                  <p>
+                     <hi>This Anſwer from His Majeſty is not ſatisfactory.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae. <hi>30</hi> Octob. <hi>1648.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>SIR <hi>Peter Kileygrew</hi> is to carry the Votes at large from both Houſes of Parliament to the Commiſſioners, And a Letter to deſire them to go on in the Treaty with His Majeſty according to their Inſtructions for a ſafe and well-ground<g ref="char:EOLhyphen"/>ed peace.</p>
+            </div>
+            <div type="part">
+               <div type="section">
+                  <opener>
+                     <dateline>
+                        <date>Die Sabbati 21 Octob. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>ORdered by the Commons aſſembled in Parliament, That the Committee of Sequeſtrations in <hi>London,</hi> be ſummoned to give an account to this Houſe on Munday morning next, what they have done upon the Order of this Houſe, of the <hi>7</hi> of <hi>Octob. 1648.</hi> injoyning them to leavy the Arrears due by ſeverall perſons for the Aſſeſſement of the Army, mentioned in the ſaid Order, upon their eſtates.</p>
+                  <closer>
+                     <signed>H. Elſynge, Cler. Parl. Dom. Com.</signed>
+                  </closer>
+               </div>
+               <div type="section">
+                  <pb n="5" facs="tcp:162368:4"/>
+                  <opener>
+                     <dateline>
+                        <date>Die Sabbati, 21 Octob. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>ACcording to former Order the Commons reſumed the conſideration of the Reports made from the Committee of the Army in order to the taking off free-Quarter. And the In<g ref="char:EOLhyphen"/>ſtructions given the laſt yeare for bringing in the Arreares of the Aſſeſſements, and the Ordinance for them paſſed concerning Free-Quarter were read.</p>
+                  <p n="1">1 <hi>Reſolved, &amp;c.</hi> That Members be imployed to uſe their beſt indeavours to bring in the Arreares of the Aſſeſſements for the Army, to the end Free-Quarter may be taken off.</p>
+                  <p n="2">2 <hi>Reſolved, &amp;c.</hi> That Members of this Houſe be ſent down to the Generall to conferre with him and his Officers ſuch as they ſhall appoint, how the Army and all other Forces may be reduſed to the eſtabliſhment, and how thoſe Forces that are to be reduced may have ſatisfaction.</p>
+                  <p n="3">3 <hi>Reſolved, &amp;c.</hi> That this Committee ſhall have power to conſider with the Generall and ſuch Officers as he ſhall ap<g ref="char:EOLhyphen"/>point, how the Army may have ſatisfaction, for the pay due ſince the 15th of <hi>January</hi> 1647. And that conſideration may bee likewiſe had of the Free-Quarters taken upon the Coun<g ref="char:EOLhyphen"/>try ſince the ſaid 15th of <hi>Jan.</hi> That ſatisfaction may be given them.</p>
+                  <p n="4">4 <hi>Reſolved, &amp;c.</hi> That the Committee have likewiſe power to confer with the Generall, and ſuch Officers as he ſhall ap<g ref="char:EOLhyphen"/>point, how the Army may with the moſt conveniency, be quar<g ref="char:EOLhyphen"/>tered according to former Inſtructions, and directions.</p>
+                  <list>
+                     <item>Mr. <hi>Scawen.</hi>
+                     </item>
+                     <item>Sir <hi>Will. Litton,</hi>
+                     </item>
+                     <item>Sir <hi>Rich. Onſlowe</hi>
+                     </item>
+                     <item>Mr. <hi>Preiſtley,</hi>
+                     </item>
+                     <item>Cap. <hi>Wingate,</hi>
+                     </item>
+                     <item>Col. <hi>Birch,</hi>
+                     </item>
+                     <item>Sir <hi>Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Dacres,</hi>
+                     </item>
+                     <item>Mr. <hi>Lemmon.</hi>
+                     </item>
+                  </list>
+                  <pb n="6" facs="tcp:162368:5"/>
+                  <p>This Committee or any three of them are appointed to go unto the Generall upon the vote<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aforeſaid.</p>
+                  <closer>
+                     <signed>H. Elſyinge Cler. Par. D. Com.</signed>
+                  </closer>
+               </div>
+               <div type="section">
+                  <head>Ordered by the Commons Aſſembled in Parliament.</head>
+                  <p n="1">
+                     <hi>1</hi> THat the Committee of the Army do give their Warrant to the Treaſurers of War, to ſatisfie and pay unto the Members of the Committee of the Army imployed by this Houſe into ſeveral Coun<g ref="char:EOLhyphen"/>ties, upon the publique ſervice, The expenſes and charges they were at in the diſcharge of that imployment.</p>
+                  <p n="2">
+                     <hi>2</hi> That the Members of the Committee of the Army that were im<g ref="char:EOLhyphen"/>ployed in the ſeverall Counties upon the ſervice of the houſe have the thanks of this houſe given unto them for their good ſervices. <hi>Mr.</hi> Scaw<g ref="char:EOLhyphen"/>en (then preſent) had accordingly the thanks of this houſe given him by Mr. Speaker.</p>
+                  <closer>
+                     <signed>H. Elſynge Cler. Par. D. Com.</signed>
+                  </closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>Reſolved, &amp;c.</hi> That it be referred to the Committee of the Army to bring in the names of 10. Delinquents not yet engag<g ref="char:EOLhyphen"/>ed, whoſe eſtates or compoſitions may bee converted to the uſe of the Army,</p>
+                  <closer>
+                     <signed>H. Elſyng Cler. Par. D. Com.</signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
